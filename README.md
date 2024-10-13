@@ -8,7 +8,6 @@ A dynamic screen saver application built using Windows Forms (C#), where users i
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -46,7 +45,3 @@ A dynamic screen saver application built using Windows Forms (C#), where users i
 2. Press **Enter** to confirm the number.
 3. Watch as the balls bounce around the screen.
 4. To adjust the number of balls, restart the application and input a new number.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
